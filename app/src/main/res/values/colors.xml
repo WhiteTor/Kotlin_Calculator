@@ -8,7 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="calc_background">#FFF8EA</color>
-    <color name="calc_1">#9E7676</color>
+    <color name="calc_num">#9E7676</color>
     <color name="calc_2">#815B5B</color>
-    <color name="calc_3">#594545</color>
+    <color name="calc_sign">#594545</color>
+    <color name="theme">#3C2317</color>
 </resources>
